@@ -1,0 +1,24 @@
+.col-item{border:1px solid #E1E1E1;border-radius:0px;background:#FFF}
+.col-item .photo img{margin:0 auto;width:100%}
+.col-item .photo{padding:10px;}
+.col-item .info{border-radius:0 0 5px 5px;margin-top:1px}
+.col-item .price{margin-top:4px}
+.col-item .price h6{line-height:14px;margin:0; font-size: 14px}
+.price-text-color{color:#ef595b}
+.rating-text{
+	color: #fed32e
+}
+.price{margin-bottom: 5px}
+.col-item .info .rating{color:#777; padding-left:20px ;}
+.col-item .rating{float:left;font-size:15px;text-align:left;line-height:30px;margin-bottom:3px;height:30px}
+.col-item .separator{border-top:none}
+.clear-left{clear:left}
+.col-item .separator p{line-height:18px;margin-bottom:0;margin-top:8px;text-align:center}
+.col-item .separator p i{margin-right:5px}
+.col-item .btn-add{width:50%;float:left;border-right:1px solid #E1E1E1}
+.col-item .btn-details{width:50%;float:left;padding-left:10px}
+.col-item .btn{border-radius: 0}
+.controls{margin-top:5px}[data-slide=prev]{margin-right:10px}
+.info .price a{text-decoration: none; color:black;}
+.info .price a:hover{color:rgb(0,155,226); text-decoration: underline}
+
